@@ -4,18 +4,18 @@ const Public = () => {
     const content = (
         <section className="public">
             <header>
-                <h1>Welcome to <span className="nowrap">Dan D. Repairs!</span></h1>
+                <h1>Welcome to <span className="nowrap">TechSupport</span></h1>
             </header>
             <main className="public__main">
-                <p>Located in Beautiful Downtown Foo City, Dan D. Repairs  provides a trained staff ready to meet your tech repair needs.</p>
+                <p>Located in the town of Dehradun, TechSupport  provides a trained staff ready to support your tech needs.</p>
                 <address className="public__addr">
-                    Dan D. Repairs<br />
-                    555 Foo Drive<br />
-                    Foo City, CA 12345<br />
-                    <a href="tel:+15555555555">(555) 555-5555</a>
+                    TechSupport<br />
+                    14/C MDDA road<br />
+                    Dehradun, Uttarakhand 12345<br />
+                    <a href="ph:+919999999999">(91) 999-9999999</a>
                 </address>
                 <br />
-                <p>Owner: Dan Davidson</p>
+                <p>Owner: Nidhi Singh</p>
             </main>
             <footer>
                 <Link to="/login">Employee Login</Link>

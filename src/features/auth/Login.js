@@ -100,7 +100,7 @@ const Login = () => {
                             onChange={handleToggle}
                             checked={persist}
                         />
-                        Trust This Device
+                        Trust this device
                     </label>
                 </form>
             </main>
